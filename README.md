@@ -1,6 +1,6 @@
 # getbrains
 
-FIXME: description
+4clojure.com exercises
 
 ## Installation
 
