@@ -8,7 +8,7 @@ Download from http://example.com/FIXME.
 
 ## Usage
 
-FIXME: explanation
+4clojure.com exercises
 
     $ java -jar getbrains-0.1.0-standalone.jar [args]
 
